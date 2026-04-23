@@ -53,9 +53,6 @@
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to view screenshots</summary>
-
 ### System Information
 ![About This Mac](Assets/Screenshots/About.png)
 
@@ -73,8 +70,6 @@
 
 ### AirDrop Working
 ![AirDrop](Assets/Screenshots/AirDrop.png)
-
-</details>
 
 ## 🚀 Installation
 
